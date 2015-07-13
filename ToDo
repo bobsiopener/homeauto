@@ -1,0 +1,8 @@
+add loging for each device of on and off times, also heat and cool for thermostat
+this way we can graph these like the solar does. We can also add a field to the on the size of the load
+to get an estimation of power used
+
+Get Linking working
+get extras for switches
+get full thermostat control
+
